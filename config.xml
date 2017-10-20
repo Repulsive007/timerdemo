@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Clocki</name>
+    <description>
+        Basic Clock Application
+    </description>
+    <author email="vinaypant24@gmail.com" href="http://phonegap.com">
+        Vinay Pant (Fiverr)
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <platform name="android">
+    <icon density="xhdpi" src="icon.png"/>
+    <splash src="splash.png"/>
+</widget>

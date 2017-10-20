@@ -1,0 +1,16 @@
+#seconddiv {
+    margin-left: 10px;
+    height: 100%;
+    width: 80%;
+    margin-top: 2%;
+    float: left;
+    transition: 2s;
+}
+
+#canvas {
+    border-radius: 500px;
+}
+
+#seconddiv:hover {
+    margin-left: 100px;
+}
