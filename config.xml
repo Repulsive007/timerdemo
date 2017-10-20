@@ -11,14 +11,8 @@
     <access origin="*" />
     <platform name="android">
     <icon density="xhdpi" src="icon.png"/>
-    <splash src="2.png" width="320" height="480"/>
-    <splash src="2.png" width="640" height="960"/>
-    <splash src="2.png" width="768" height="1024"/>
-    <splash src="2.png" width="1536" height="2048"/>
-    <splash src="2.png" width="1024" height="768"/>
-    <splash src="2.png" width="2048" height="1536"/>
-    <splash src="r2.png" width="640" height="1136"/>
-    <splash src="2.png" width="750" height="1334"/>
-    <splash src="2.png" width="1242" height="2208"/>
+    <splash density="land-xhdpi" src="2.png" />
     </platform>
+
+    
 </widget>
