@@ -11,5 +11,6 @@
     <access origin="*" />
     <platform name="android">
     <icon density="xhdpi" src="icon.png"/>
-    <splash src="splash.png"/>
+    <splash src="splash.png" width="360" height="640"/>
+    </platform>
 </widget>
